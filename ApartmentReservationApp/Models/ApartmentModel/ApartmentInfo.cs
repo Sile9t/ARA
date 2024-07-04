@@ -1,4 +1,4 @@
-﻿namespace ApartmentReservationApp.Models
+﻿namespace ApartmentReservationApp.Models.ApartmentModel
 {
     public class ApartmentInfo
     {
@@ -12,6 +12,6 @@
         public string? LongDescription { get; set; }
         public double Cost { get; set; }
         public double Rate { get; set; }
-        public List<byte []> Photos { get; set; }
+        public List<byte[]> Photos { get; set; }
     }
 }

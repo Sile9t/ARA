@@ -1,4 +1,6 @@
-﻿namespace ApartmentReservationApp.Models
+﻿using ApartmentReservationApp.Models.ApartmentModel;
+
+namespace ApartmentReservationApp.Models.User
 {
     public class User
     {
@@ -8,7 +10,7 @@
         public string Phone { get; set; }
         public string? About { get; set; }
         public string Languages { get; set; }
-        public byte[] Photo {  get; set; }
+        public byte[] Photo { get; set; }
         public virtual List<ApartmentInfo>? Apartments { get; set; }
     }
 }

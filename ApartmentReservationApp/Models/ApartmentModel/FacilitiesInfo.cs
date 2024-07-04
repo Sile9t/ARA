@@ -1,4 +1,4 @@
-﻿namespace ApartmentReservationApp.Models
+﻿namespace ApartmentReservationApp.Models.ApartmentModel
 {
     public class FacilitiesInfo
     {
