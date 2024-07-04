@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[9.0.1, )"
             },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -130,6 +134,10 @@
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -192,6 +200,10 @@
               "target": "Package",
               "version": "[9.0.1, )"
             },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -253,6 +265,10 @@
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
