@@ -3,7 +3,7 @@
     public class Reviews
     {
         public virtual int? ApartmentId { get; set; }
-        public virtual ApartmentInfo? Apartment { get; set; }
+        public int ReviewCount { get; set; }
         public List<Review> List { get; set; }
     }
 }

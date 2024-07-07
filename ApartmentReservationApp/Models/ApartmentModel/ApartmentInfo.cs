@@ -18,7 +18,7 @@ namespace ApartmentReservationApp.Models.ApartmentModel
         public double Cost { get; set; }
         public double Rate { get; set; }
         public virtual int? RulesId { get; set; }
-        public virtual Rules? Rule { get; set; }
+        public virtual ApartmentRules? Rule { get; set; }
         public virtual int OwnerId { get; set; }
         public virtual User Owner { get; set; }
         public virtual int? HotelId { get; set; }
