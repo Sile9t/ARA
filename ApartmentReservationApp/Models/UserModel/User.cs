@@ -12,6 +12,7 @@ namespace ApartmentReservationApp.Models.UserModel
         public string Languages { get; set; }
         public byte[] Photo { get; set; }
         public virtual List<ApartmentInfo>? Apartments { get; set; }
+        public virtual int ApartmentRulesId { get; set; }
         public virtual ApartmentRules? Rules { get; set; }
     }
 }
