@@ -17,6 +17,7 @@ namespace ApartmentReservationApp.Models.ApartmentModel
         public string? Description { get; set; }
         public double Cost { get; set; }
         public double Rate { get; set; }
+        public virtual List<Review> Reviews { get; set; }
         public virtual int? RulesId { get; set; }
         public virtual ApartmentRules? Rule { get; set; }
         public virtual int OwnerId { get; set; }
@@ -24,6 +25,6 @@ namespace ApartmentReservationApp.Models.ApartmentModel
         public virtual int? HotelId { get; set; }
         public virtual Hotel? Hotel { get; set; }
         public virtual int? FacilitiesInfoId { get; set; }
-        public virtual FacilitiesInfo? FacilitiesInfo { get; set; }
+        public virtual ApartFacilities? FacilitiesInfo { get; set; }
     }
 }

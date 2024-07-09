@@ -1,6 +1,6 @@
 ﻿namespace ApartmentReservationApp.Models.ApartmentModel
 {
-    public class ApartmentFacility
+    public class ApartFacility
     {
         public int Id { get; set; }
         public int Priority { get; set; }
