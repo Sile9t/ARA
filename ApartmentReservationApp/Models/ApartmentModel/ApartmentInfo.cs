@@ -23,7 +23,7 @@ namespace ApartmentReservationApp.Models.ApartmentModel
         public virtual int OwnerId { get; set; }
         public virtual User Owner { get; set; }
         public virtual int? HotelId { get; set; }
-        public virtual Hotel? Hotel { get; set; }
+        //public virtual Hotel? Hotel { get; set; }
         public virtual int? FacilitiesInfoId { get; set; }
         public virtual ApartFacilities? FacilitiesInfo { get; set; }
     }
