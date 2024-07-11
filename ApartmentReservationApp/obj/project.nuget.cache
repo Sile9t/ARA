@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Adb5p8IqXMk=",
+  "dgSpecHash": "Z89a95PFu4o=",
   "success": true,
   "projectFilePath": "C:\\Projects\\DotNet\\Maui\\ApartmentReservationApp\\ApartmentReservationApp\\ApartmentReservationApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sile9t\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Sile9t\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Sile9t\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Sile9t\\.nuget\\packages\\communitytoolkit.maui\\9.0.1\\communitytoolkit.maui.9.0.1.nupkg.sha512",

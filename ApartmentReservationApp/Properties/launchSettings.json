@@ -4,5 +4,9 @@
       "commandName": "MsixPackage",
       "nativeDebugging": false
     }
+  },
+
+  "ConnectionStrings": {
+    "db": "Server=DESKTOP-U893DOI;Initial Catalog = ARADb;TrustServerCertificate=True;Trusted_Connection=True"
   }
 }
