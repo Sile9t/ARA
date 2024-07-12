@@ -10,9 +10,10 @@ namespace ApartmentReservationApp.Services
         private readonly OccupancyContext _context;
         private readonly IMapper _mapper;
 
-        public ApartmentService(OccupancyContext context)
+        public ApartmentService(OccupancyContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         public int AddApartment(ApartmentInfoDto apartmentDto)
