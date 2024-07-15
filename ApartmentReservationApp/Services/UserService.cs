@@ -51,5 +51,19 @@ namespace ApartmentReservationApp.Services
 
             return _mapper.Map<UserDto>(user);
         }
+
+        public bool UpdateUser(UserDto userDto, int id)
+        {
+            if (!_context.Users.Any(x => x.Id == id))
+                throw new Exception("No user like this");
+
+            var user = _mapper.Map<User>(userDto);
+            user.Id = id;
+
+            _context.Update(user);
+            _context.SaveChanges();
+
+            return true;
+        }
     }
 }
