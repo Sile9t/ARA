@@ -1,4 +1,5 @@
-﻿using ApartmentReservationApp.Models.UserModel;
+﻿using ApartmentReservationApp.Models.ApartmentModel.OccupancyModel;
+using ApartmentReservationApp.Models.UserModel;
 
 namespace ApartmentReservationApp.Models.ApartmentModel
 {

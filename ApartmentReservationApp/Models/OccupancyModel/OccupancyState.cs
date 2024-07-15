@@ -1,4 +1,4 @@
-﻿namespace ApartmentReservationApp.Models.ApartmentModel
+﻿namespace ApartmentReservationApp.Models.ApartmentModel.OccupancyModel
 {
     public class OccupancyState
     {

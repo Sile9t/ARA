@@ -1,6 +1,6 @@
 ﻿using ApartmentReservationApp.Models.UserModel;
 
-namespace ApartmentReservationApp.Models.ApartmentModel
+namespace ApartmentReservationApp.Models.ApartmentModel.OccupancyModel
 {
     public class Occupancy
     {
@@ -8,7 +8,7 @@ namespace ApartmentReservationApp.Models.ApartmentModel
         public virtual int ApartmentId { get; set; }
         public virtual ApartmentInfo Apartment { get; set; }
         public virtual int ReservedById { get; set; }
-        public virtual User ReservedBy {  get; set; }
+        public virtual User ReservedBy { get; set; }
         public DateOnly CreationDate { get; set; }
         public DateOnly OccupancyDate { get; set; }
         public DateOnly EvictionDate { get; set; }
