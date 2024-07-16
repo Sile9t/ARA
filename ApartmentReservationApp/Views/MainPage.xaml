@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:model="clr-namespace:ApartmentReservationApp.Models.ApartmentModel"
+             xmlns:viewmodel="clr-namespace:ApartmentReservationApp.ViewModels"
              x:Class="ApartmentReservationApp.MainPage">
 
     <Grid 
@@ -11,13 +13,13 @@
                 <DataTemplate x:DataType="model:ApartmentInfo">
                     <Grid>
                         <Frame>
-                            <Frame.GestureRecognizer>
+                            <Frame.GestureRecognizers>
                                 <TapGestureRecognizer 
                                     Command="{Binding Source = {RelativeSource 
                                         AncestorType={x:Type viewmodel:AparmentDetailsViewModel}},
                                         Path=GoToDetailsCommand}"
                                     CommandParameter="{Binding .}"/>
-                            </Frame.GestureRecognizer>
+                            </Frame.GestureRecognizers>
                             <Grid Padding="0" ColumnDefinitions="125,*">
                                 <Image Aspect="AspectFill" Source="Binding Photos"
                                        HeightRequest="125"
