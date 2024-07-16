@@ -226,6 +226,9 @@
     <AppxPackagedFile Include="C:\Users\Sile9t\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sile9t\.nuget\packages\automapper\13.0.1\lib\net6.0\AutoMapper.dll">
+      <PackagePath>AutoMapper.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sile9t\.nuget\packages\azure.core\1.35.0\lib\net6.0\Azure.Core.dll">
       <PackagePath>Azure.Core.dll</PackagePath>
     </AppxPackagedFile>

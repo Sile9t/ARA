@@ -279,3 +279,4 @@ C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debu
 C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Nunito-Regular.ttf
 C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Nunito-SemiBold.ttf
+C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AutoMapper.dll

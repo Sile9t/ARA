@@ -78,6 +78,13 @@
 
 	<ItemGroup>
 		<Folder Include="Abstractions\" />
+		<Folder Include="Views\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Views\DetailsPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>

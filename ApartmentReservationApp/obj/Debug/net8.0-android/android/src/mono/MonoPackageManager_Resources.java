@@ -3,6 +3,7 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "ApartmentReservationApp.dll" comes first in this list. */
 		"ApartmentReservationApp.dll",
+		"AutoMapper.dll",
 		"Azure.Core.dll",
 		"Azure.Identity.dll",
 		"CommunityToolkit.Maui.dll",

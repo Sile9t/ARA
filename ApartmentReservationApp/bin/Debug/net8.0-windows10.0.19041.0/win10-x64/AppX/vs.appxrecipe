@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-04T14:56:52.440</Modified>
+      <Modified>2024-07-16T14:02:04.227</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-07-04T14:56:51.953</Modified>
+      <Modified>2024-07-16T14:02:03.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ApartmentReservationApp.runtimeconfig.json">
       <PackagePath>ApartmentReservationApp.runtimeconfig.json</PackagePath>
-      <Modified>2024-07-04T14:56:51.398</Modified>
+      <Modified>2024-07-16T14:02:02.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ApartmentReservationApp.dll">
       <PackagePath>ApartmentReservationApp.dll</PackagePath>
-      <Modified>2024-07-04T14:56:49.283</Modified>
+      <Modified>2024-07-16T14:02:00.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ApartmentReservationApp.exe</PackagePath>
-      <Modified>2024-07-04T14:56:49.322</Modified>
+      <Modified>2024-07-16T14:02:00.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -73,6 +73,14 @@
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-07-02T05:06:40.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Nunito-Regular.ttf">
+      <PackagePath>Nunito-Regular.ttf</PackagePath>
+      <Modified>2024-04-25T13:39:48.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Nunito-SemiBold.ttf">
+      <PackagePath>Nunito-SemiBold.ttf</PackagePath>
+      <Modified>2024-04-25T13:39:49.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -293,6 +301,10 @@
     <AppxPackagedFile Include="C:\Users\Sile9t\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-10-16T19:41:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sile9t\.nuget\packages\automapper\13.0.1\lib\net6.0\AutoMapper.dll">
+      <PackagePath>AutoMapper.dll</PackagePath>
+      <Modified>2024-02-07T21:45:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sile9t\.nuget\packages\azure.core\1.35.0\lib\net6.0\Azure.Core.dll">
       <PackagePath>Azure.Core.dll</PackagePath>
@@ -700,7 +712,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ApartmentReservationApp.deps.json">
       <PackagePath>ApartmentReservationApp.deps.json</PackagePath>
-      <Modified>2024-07-04T14:56:52.213</Modified>
+      <Modified>2024-07-16T14:02:03.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sile9t\.nuget\packages\humanizer.core\2.14.1\lib\net6.0\Humanizer.dll">
       <PackagePath>Humanizer.dll</PackagePath>

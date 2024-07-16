@@ -1114,3 +1114,4 @@ C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debu
 C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\obj\Debug\net8.0-android\android\assets\AutoMapper.dll
