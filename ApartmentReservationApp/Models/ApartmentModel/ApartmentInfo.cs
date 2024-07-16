@@ -1,4 +1,5 @@
-﻿using ApartmentReservationApp.Models.UserModel;
+﻿using ApartmentReservationApp.Models.ApartmentModel.OccupancyModel;
+using ApartmentReservationApp.Models.UserModel;
 
 namespace ApartmentReservationApp.Models.ApartmentModel
 {
@@ -26,5 +27,6 @@ namespace ApartmentReservationApp.Models.ApartmentModel
         public virtual HotelInfo? Hotel { get; set; }
         public virtual int? FacilitiesInfoId { get; set; }
         public virtual ApartFacilities? FacilitiesInfo { get; set; }
+        public virtual List<Occupancy> Occupancies { get; set; }
     }
 }
