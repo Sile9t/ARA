@@ -411,3 +411,4 @@ C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReser
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-ios\iossimulator-x64\Apartmen.9D17B690.Up2Date
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-ios\iossimulator-x64\ApartmentReservationAppClone.genruntimeconfig.cache
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-ios\iossimulator-x64\ref\ApartmentReservationAppClone.dll
+C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-ios\iossimulator-x64\ApartmentReservationAppClone.sourcelink.json

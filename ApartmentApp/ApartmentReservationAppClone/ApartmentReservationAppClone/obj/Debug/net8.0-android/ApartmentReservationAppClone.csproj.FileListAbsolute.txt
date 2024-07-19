@@ -1107,3 +1107,4 @@ C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReser
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-android\ApartmentReservationAppClone.sourcelink.json

@@ -276,3 +276,4 @@ C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReser
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\msalruntime.dll
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WebView2Loader.dll
 C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ApartmentReservationAppClone.genpublishdeps.cache
+C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ApartmentReservationAppClone.sourcelink.json

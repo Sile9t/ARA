@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-18T14:10:08.084</Modified>
+      <Modified>2024-07-19T10:45:53.712</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ApartmentReservationAppClone.dll">
       <PackagePath>ApartmentReservationAppClone.dll</PackagePath>
-      <Modified>2024-07-18T14:10:04.860</Modified>
+      <Modified>2024-07-19T10:45:52.158</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ApartmentReservationAppClone.exe</PackagePath>
-      <Modified>2024-07-18T14:10:04.892</Modified>
+      <Modified>2024-07-19T10:45:52.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\DotNet\Maui\ApartmentApp\ApartmentReservationAppClone\ApartmentReservationAppClone\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
