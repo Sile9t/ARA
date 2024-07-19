@@ -1,1 +1,0 @@
-C:\Projects\DotNet\Maui\ApartmentReservationApp\ApartmentReservationApp\ApartmentReservationApp.csproj;x64
