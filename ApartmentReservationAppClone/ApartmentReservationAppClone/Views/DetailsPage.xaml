@@ -7,6 +7,15 @@
     <Grid
         Margin="10,10"
         Padding="10">
-        
+        <RefreshView>
+            
+        </RefreshView>
+
+        <Button 
+            Margin="8"
+            Command="{Binding}"
+            IsEnabled="True"
+            Text="Reserve"/>
+
     </Grid>
 </ContentPage>

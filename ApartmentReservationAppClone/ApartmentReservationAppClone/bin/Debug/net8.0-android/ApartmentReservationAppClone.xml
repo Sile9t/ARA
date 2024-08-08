@@ -13,9 +13,22 @@
         <member name="P:ApartmentReservationAppClone.Views.BaseViewModel.Title">
             <inheritdoc cref="F:ApartmentReservationAppClone.Views.BaseViewModel.title"/>
         </member>
+        <member name="T:ApartmentReservationAppClone.ViewModels.DetailsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:ApartmentReservationAppClone.ViewModels.DetailsViewModel.getApartmentDetailsCommand">
+            <summary>The backing field for <see cref="P:ApartmentReservationAppClone.ViewModels.DetailsViewModel.GetApartmentDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:ApartmentReservationAppClone.ViewModels.DetailsViewModel.GetApartmentDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:ApartmentReservationAppClone.ViewModels.DetailsViewModel.GetApartmentDetailsAsync(System.Int32)"/>.</summary>
+        </member>
         <member name="T:ApartmentReservationAppCLone.ViewModels.ApartmentsViewModel">
             <inheritdoc/>
             <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ApartmentReservationAppCLone.ViewModels.ApartmentsViewModel.IsRefreshing">
+            <inheritdoc cref="F:ApartmentReservationAppCLone.ViewModels.ApartmentsViewModel.isRefreshing"/>
         </member>
         <member name="F:ApartmentReservationAppCLone.ViewModels.ApartmentsViewModel.goToDetailsCommand">
             <summary>The backing field for <see cref="P:ApartmentReservationAppCLone.ViewModels.ApartmentsViewModel.GoToDetailsCommand"/>.</summary>
@@ -35,6 +48,9 @@
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
         </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsRefreshing">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsRefreshing" generated properties.</summary>
+        </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsBusy">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsBusy" generated properties.</summary>
         </member>
@@ -46,6 +62,9 @@
             A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsRefreshing">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsRefreshing" generated properties.</summary>
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsBusy">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsBusy" generated properties.</summary>

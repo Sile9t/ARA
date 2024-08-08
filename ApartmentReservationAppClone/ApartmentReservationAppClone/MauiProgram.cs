@@ -23,9 +23,9 @@ namespace ApartmentReservationAppClone
             appBuilder.Services.AddSingleton<IGeolocation>(Geolocation.Default);
             appBuilder.Services.AddSingleton<IMap>(Map.Default);
 
-            appBuilder.Services.AddSingleton<ApartmentService>();
-            appBuilder.Services.AddSingleton<ApartmentsViewModel>();
-            appBuilder.Services.AddSingleton<MainPage>();
+            appBuilder.Services.AddTransient<ApartmentService>();
+            appBuilder.Services.AddTransient<ApartmentsViewModel>();
+            appBuilder.Services.AddTransient<MainPage>();
 
             //appBuilder.Services.AddTransient<DetailsPage>();
 

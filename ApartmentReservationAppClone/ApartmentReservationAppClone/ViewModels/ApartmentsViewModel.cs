@@ -1,6 +1,7 @@
 ﻿using ApartmentReservationAppClone.Models.ApartmentModel;
 using ApartmentReservationAppClone.Services;
 using ApartmentReservationAppClone.Views;
+using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Microsoft.Maui.Networking;
 using System.Collections.ObjectModel;
@@ -23,15 +24,18 @@ namespace ApartmentReservationAppCLone.ViewModels
             _geolocation = geolocation;
         }
 
+        [ObservableProperty]
+        bool isRefreshing;
+
         [RelayCommand]
         async Task GoToDetails(ApartmentInfo apartmentInfo)
         {
             if (apartmentInfo == null) return;
 
-            //await Shell.Current.GoToAsync(nameof(DetailsPage), true,
-            //    new Dictionary<string, object> {
-            //    { "ApartmentInfo", apartmentInfo}
-            //});
+            await Shell.Current.GoToAsync(nameof(DetailsPage), true,
+                new Dictionary<string, object> {
+                { "ApartmentInfo", apartmentInfo}
+            });
         }
 
         [RelayCommand]
@@ -67,8 +71,9 @@ namespace ApartmentReservationAppCLone.ViewModels
             finally
             {
                 IsBusy = false;
+                IsRefreshing = false;
             }
 
         }
     }
-}
+}   

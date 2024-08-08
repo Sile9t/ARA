@@ -1,10 +1,14 @@
-﻿namespace ApartmentReservationAppClone.Views
+﻿using ApartmentReservationAppCLone.ViewModels;
+
+namespace ApartmentReservationAppClone.Views
 {
     public partial class MainPage : ContentPage
     {
-        public MainPage()
+        public MainPage(ApartmentsViewModel viewModel)
         {
             InitializeComponent();
+            BindingContext = viewModel;
+
         }
     }
 
